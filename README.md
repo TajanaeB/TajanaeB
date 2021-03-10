@@ -12,4 +12,3 @@
 - 📫 How to reach me: TajanaeCBoone@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love REACT
--->
