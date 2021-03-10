@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TajanaeB/TajanaeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on REACT Mobile App based on Real Estate
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on projects using backend technologies
